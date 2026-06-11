@@ -4,7 +4,7 @@ This is where I implement Linguistics ideas using Kyle Rawlins' [Lambda Notebook
 
 ## Contents
 
-- [Copredication.ipynb](https://github.com/MatthewGotham/LambdaNotebooks/blob/master/Copredication.ipynb): This is a workbook for for looking at the compositional semantics of copredication, especially as regards quantification. It contains a demonstration of some ideas found in the following papers:
+- [Copredication](https://github.com/MatthewGotham/LambdaNotebooks/blob/master/Copredication.ipynb): This is a workbook for for looking at the compositional semantics of copredication, especially as regards quantification. It contains a demonstration of some ideas found in the following papers:
     - Gotham, Matthew (2022). [Property Inheritance, Deferred Reference and Copredication](https://doi.org/10.1093/jos/ffab020). _Journal of Semantics_ 39(1):87–116.
     - Gotham, Matthew (2017). [Composing Criteria of Individuation in Copredication](http://academic.oup.com//jos/article/doi/10.1093/jos/ffw008/2555474/Composing-Criteria-of-Individuation-in?guestAccessKey=62fb866e-7bd4-47ae-b6b6-cc1be28a5aeb). _Journal of Semantics_ 34(2):333–371.
 - [Dynamics-TTS-in-STT](https://github.com/MatthewGotham/LambdaNotebooks/blob/master/Dynamics-TTS-in-STT.ipynb).ipynb: This is a workbook for exploring  applications of the basic ideas of type-theoretical semantics, for dynamics, in simple type theory. It contains a demonstration of some ideas found in the following papers:
