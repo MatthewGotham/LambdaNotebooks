@@ -12,4 +12,3 @@ This is where I implement Linguistics ideas using Kyle Rawlins' [Lambda Notebook
     - Gotham, Matthew (2019). [Quantificational Subordination as Anaphora to a Function](https://matthewgotham.github.io/linguistics/#FG2019). In Raffaella Bernardi, Greg Kobele & Sylvain Pogodalla (eds.), _Formal Grammar: FG 2019_, 51–66. Lecture Notes in Computer Science 11668. Berlin, Heidelberg: Springer.
     - Gotham, Matthew (2018). [A Model-Theoretic Reconstruction of Type-Theoretic Semantics for Anaphora](https://matthewgotham.github.io/linguistics/#FG2017). In Annie Foret, Reinhard Muskens & Sylvain Pogodalla (eds.), _Formal Grammar: FG 2017_, 37–53. Lecture Notes in Computer Science 10686. Berlin, Heidelberg: Springer.
     - It also contains a section on sentence-exteral **and** sentence-interal _different_ that hasn't to my knowledge been published elsewhere.
-
