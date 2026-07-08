@@ -34,4 +34,4 @@ This notebook shows derivations for object-related and event-related readings of
 - de Groote, Philippe (2006). [Towards a Montagovian Account of Dynamics](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/2952/2692). In Masayuki Gibson & Jonathan Howell (eds.), _Proceedings of SALT_ 16:1–16.
 - Krifka, Manfred (1990). [Four thousand ships passed through the lock: Object-induced measure functions on events](https://doi.org/10.1007/BF00627291). _Linguistics and Philosophy_ 13:487–520
 - Ranta, Aarne (1991). _Type-Theoretical Grammar_. Oxford: Oxford University Press.
-- Sunholm, Göran Sundholm (1986). [Proof Theory and Meaning](https://doi.org/chapter/10.1007/978-94-009-5203-4_8). In Dov Gabbay & Franz Guenther (eds.), _Handbook of Philosophical Logic_, Volume 3, 471–506. Dordrecht: D. Reidel.
+- Sunholm, Göran (1986). [Proof Theory and Meaning](https://doi.org/chapter/10.1007/978-94-009-5203-4_8). In Dov Gabbay & Franz Guenther (eds.), _Handbook of Philosophical Logic_, Volume 3, 471–506. Dordrecht: D. Reidel.
